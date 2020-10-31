@@ -1,4 +1,4 @@
-# civilservicenyc
+# Civil Service NYC
 Exam information for Civil Service Jobs
 
 > www.civilservicenyc.com
@@ -9,6 +9,8 @@ To provide access to open civic data through an intuitive and user friendly expe
 ## DEVELOPMENT TOOLS
 The project was built with the Python programming language, Django web framework, SQLite 
 a lightweight relational database and Pandas a data analysis library.
+
+##
 
 ### What is the purpose of the site?
 With close to 1.5 million views the Civil Service List on the NYC Open Data portal is one 

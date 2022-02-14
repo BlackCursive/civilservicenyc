@@ -1,5 +1,5 @@
 # <div align="center">Civil Service NYC - Applicant information for NYC Civil Service Exams</div>
-#### <div align="center">With close to 2 million views the Civil Service List on the NYC Open Data portal is one of the most highly accessed datasets.<br>The idea is to provide access to this open civic data while still offering an intuitive and user friendly experience.</div>
+#### <div align="center">With close to 2 million views the Civil Service List on the NYC Open Data portal is one of the<br>most highly accessed datasets. The idea is to provide access to this open civic data while still<br>offering an intuitive and user friendly experience.</div>
 <div align="center">www.civilservicenyc.com</div><br>
 
 ![Civil Service NYC](https://github.com/BlackCursive/civilservicenyc/blob/master/civil_service_nyc.gif)
